@@ -20,8 +20,10 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I am Adem, a PhD student at [KU Leuven](https://www.kuleuven.be/english/kuleuven/) and a researcher at the [DTAI](https://dtai.cs.kuleuven.be/) research group.
 
-My research focuses on _automatically learning novel relational representations_ that can be used with expressive statistical relational AI models. To achieve this automation, I am investigating a hybrid approach between inductive logic programming, graph mining techniques, and deep learning. I am also interested on Neurosymbolic Programming, which focuses on combining deep learning and program synthesis.
+My research focuses on the _integration of graph neural networks with probabilistic logic programming_. 
 
-My PhD research is part of the [iBOF](https://ai.kuleuven.be/news/luc-de-raedt-jesse-davis-ku-leuven-and-tijl-de-bie-ugent-one-of-the-first-15-ibof-projects) project where I work under the supervision of [prof. dr. Luc De Raedt](https://wms.cs.kuleuven.be/people/lucderaedt/).
+My main research interests are in graph neural networks, (probabilistic) logic programming, and neurosymbolic AI.
 
-Before joining KU Leuven, I was a research member at the [Knowledge Technologies](https://kt.ijs.si/) department at [Jožef Stefan Institute](https://ijs.si/ijsw/V001/JSI), working with [prof. dr. Marko Bohanec](http://kt.ijs.si/MarkoBohanec/mare.html), where I also obtained my MSc.
+My PhD research is part of the [iBOF](https://ai.kuleuven.be/news/luc-de-raedt-jesse-davis-ku-leuven-and-tijl-de-bie-ugent-one-of-the-first-15-ibof-projects) project where I work under the supervision of [Prof. Luc De Raedt](https://wms.cs.kuleuven.be/people/lucderaedt/) and [Asst. Prof. Giuseppe Marra](https://www.giuseppemarra.com/).
+
+Before joining KU Leuven, I was a research member at the [Knowledge Technologies](https://kt.ijs.si/) department at [Jožef Stefan Institute](https://ijs.si/ijsw/V001/JSI), working with [Prof. Marko Bohanec](http://kt.ijs.si/MarkoBohanec/mare.html), where I also obtained my MSc with a focus on decision-support systems.

@@ -1,0 +1,39 @@
+---
+layout: about
+permalink: /teaching/
+title: teaching
+description: 
+nav: true
+nav_order: 5
+---
+
+{% if site.data.teaching.courses and site.data.teaching.courses.size>0 %}
+
+    <h3> Teaching Assistant </h3>
+
+    {% for item in site.data.teaching.courses %}
+      <div>
+        <em>{{ item.period }}</em>:
+        <strong>
+            <a href="{{item.url}}">{{ item.course }}</a>
+        </strong>
+
+            {% if item.note %}
+                <p>
+                    {{ item.note }}
+                </p>
+            {% endif %}
+      </div>
+    {% endfor %}
+{% endif %}
+
+{% if site.data.teaching.thesis and site.data.teaching.thesis.size>0 %}
+
+    <h3> Thesis Advisor </h3>
+
+    <ul>
+    {% for item in site.data.teaching.thesis %}
+        <li> <em>{{item.student}}</em>: {{item.topic}} </li>
+    {% endfor %}
+    </ul>
+{% endif %}
